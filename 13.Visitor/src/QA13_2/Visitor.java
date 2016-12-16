@@ -1,0 +1,7 @@
+package QA13_2;
+
+public abstract class Visitor {
+	public abstract void visit(File file);
+
+	public abstract void visit(Directory direcotry);
+}
