@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<venture>
+	<company>
+		<name>Greeting</name>
+		<addInfo>
+			<value>朝から昼にかけて</value>
+		</addInfo>
+		<attr>
+			<item>おはようございます。</item>
+			<item>こんにちは。</item>
+		</attr>
+		<addInfo>
+			<value>夜に</value>
+		</addInfo>
+		<attr>
+			<item>こんばんは。</item>
+			<item>おやすみなさい。</item>
+			<item>さようなら。</item>
+		</attr>
+	</company>
+</venture>
